@@ -6,3 +6,5 @@ size3
 picture5
 
 
+new 1
+new 2
